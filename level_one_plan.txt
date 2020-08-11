@@ -1,0 +1,32 @@
+
+jump up something
+jump over something
+
+jump which is too long and tall to make normally, which you can only make by rebounding
+double rebound jump
+
+jump which is too tall, but with no rebound potential, so you have to wall jump climb it
+jump which can only be made by wall jump
+
+wall jump + rebound
+final challenge for the two mechanics: make three wall-jump -> rebounds in a row
+
+
+
+
+
+room zero
+	jump up something tiny
+	jump over something short
+
+room one
+	rebound over something
+	rebound twice
+	
+room two
+	wall climb
+	wall jump turn
+
+room three
+	wall jump + rebound (longest corridor)
+	(wall jump + rebound) * N

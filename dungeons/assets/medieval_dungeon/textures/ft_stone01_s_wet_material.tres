@@ -1,0 +1,11 @@
+[gd_resource type="SpatialMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://dungeons/assets/medieval_dungeon/textures/stone/stone7/ft_stone01_n.png" type="Texture" id=1]
+
+
+
+[resource]
+metallic_specular = 0.0
+roughness_texture = ExtResource( 1 )
+normal_enabled = true
+normal_scale = 2.0

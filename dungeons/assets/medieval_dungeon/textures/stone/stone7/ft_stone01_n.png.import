@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/ft_stone01_n.png-6db93c1a20eb5f48b1abf12e2b8970da.s3tc.stex"
+path.etc2="res://.import/ft_stone01_n.png-6db93c1a20eb5f48b1abf12e2b8970da.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://dungeons/assets/medieval_dungeon/textures/stone/stone7/ft_stone01_n.png"
+dest_files=[ "res://.import/ft_stone01_n.png-6db93c1a20eb5f48b1abf12e2b8970da.s3tc.stex", "res://.import/ft_stone01_n.png-6db93c1a20eb5f48b1abf12e2b8970da.etc2.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=1
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

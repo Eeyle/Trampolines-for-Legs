@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/great_sand_sea_heightmap-0.005194110802116125-28.5054-23.1049.png-de031d06b30a4da1fc075a0e6ad4b4dd.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://dungeons/desert_temple/landscape/great_sand_sea_heightmap-0.005194110802116125-28.5054-23.1049.png"
+dest_files=[ "res://.import/great_sand_sea_heightmap-0.005194110802116125-28.5054-23.1049.png-de031d06b30a4da1fc075a0e6ad4b4dd.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,6 @@
+/home/eeyle/godot/Trampolines-for-Legs/.mono/temp/bin/Debug/Trampolines-for-Legs.dll
+/home/eeyle/godot/Trampolines-for-Legs/.mono/temp/bin/Debug/Trampolines-for-Legs.pdb
+/home/eeyle/godot/Trampolines-for-Legs/.mono/temp/obj/Debug/Trampolines-for-Legs.csprojAssemblyReference.cache
+/home/eeyle/godot/Trampolines-for-Legs/.mono/temp/obj/Debug/Trampolines-for-Legs.csproj.CoreCompileInputs.cache
+/home/eeyle/godot/Trampolines-for-Legs/.mono/temp/obj/Debug/Trampolines-for-Legs.dll
+/home/eeyle/godot/Trampolines-for-Legs/.mono/temp/obj/Debug/Trampolines-for-Legs.pdb

@@ -1,0 +1,46 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://ui/debug/StateNameDisplayer.cs" type="Script" id=1]
+
+[node name="DebugPanel" type="Panel"]
+margin_top = 1.0
+margin_right = 71.0
+margin_bottom = 192.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="CurrentState" type="Label" parent="."]
+margin_right = 40.0
+margin_bottom = 14.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="StateStack" type="Label" parent="."]
+margin_left = -0.440132
+margin_top = 24.207
+margin_right = 39.5599
+margin_bottom = 38.207
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ExtraLabel1" type="Label" parent="."]
+margin_left = 0.784844
+margin_top = 48.8549
+margin_right = 40.7849
+margin_bottom = 62.8549
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ExtraLabel2" type="Label" parent="."]
+margin_left = 0.784828
+margin_top = 119.102
+margin_right = 40.7849
+margin_bottom = 133.102
+__meta__ = {
+"_edit_use_anchors_": false
+}

@@ -1,0 +1,54 @@
+[gd_resource type="ShaderMaterial" load_steps=8 format=2]
+
+[ext_resource path="res://dungeons/desert_temple/landscape/shader/dunes.shader" type="Shader" id=1]
+
+[sub_resource type="OpenSimplexNoise" id=1]
+seed = 2
+octaves = 2
+period = 196.0
+persistence = 0.95
+lacunarity = 1.1
+
+[sub_resource type="NoiseTexture" id=2]
+width = 2048
+height = 2048
+seamless = true
+as_normalmap = true
+bump_strength = 256.0
+noise = SubResource( 1 )
+
+[sub_resource type="OpenSimplexNoise" id=3]
+seed = 2
+octaves = 1
+period = 256.0
+persistence = 0.95
+lacunarity = 1.1
+
+[sub_resource type="NoiseTexture" id=4]
+width = 1024
+height = 1024
+seamless = true
+as_normalmap = true
+bump_strength = 256.0
+noise = SubResource( 3 )
+
+[sub_resource type="OpenSimplexNoise" id=5]
+seed = 2
+octaves = 2
+period = 128.0
+persistence = 0.8
+lacunarity = 1.2
+
+[sub_resource type="NoiseTexture" id=6]
+width = 2048
+height = 2048
+seamless = true
+as_normalmap = true
+bump_strength = 64.0
+noise = SubResource( 5 )
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/ripple_noise_soft = SubResource( 4 )
+shader_param/ripple_noise_hard = SubResource( 2 )
+shader_param/sand_noise = SubResource( 6 )

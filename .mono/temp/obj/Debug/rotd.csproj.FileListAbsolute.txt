@@ -1,0 +1,6 @@
+/home/eeyle/godot/rotd/.mono/temp/bin/Debug/rotd.dll
+/home/eeyle/godot/rotd/.mono/temp/bin/Debug/rotd.pdb
+/home/eeyle/godot/rotd/.mono/temp/obj/Debug/rotd.csprojAssemblyReference.cache
+/home/eeyle/godot/rotd/.mono/temp/obj/Debug/rotd.csproj.CoreCompileInputs.cache
+/home/eeyle/godot/rotd/.mono/temp/obj/Debug/rotd.dll
+/home/eeyle/godot/rotd/.mono/temp/obj/Debug/rotd.pdb
